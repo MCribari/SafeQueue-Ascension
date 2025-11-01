@@ -1,6 +1,6 @@
 # SafeQueue for Ascension Bronzebeard/Malfurion.
 
-**->** SafeQueue is an extremely lightweight addon that fixes the Enter Battle button for classic battlegrounds.
+**->** SafeQueue is an extremely lightweight addon that modifies the Enter Battle button for classic battlegrounds.
 
 ### Features:
 - Removes the "Leave Queue" button for Arenas and BG's.
